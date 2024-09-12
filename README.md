@@ -1,7 +1,3 @@
-Berikut adalah template README untuk proyek **Website Desa**:
-
----
-
 # Website Desa Cangkring
 
 Ini adalah repositori untuk **Website Desa Cangkring**, sebuah platform online yang dirancang untuk memudahkan warga desa dalam mengakses informasi dan layanan desa secara digital. Website ini dirancang dengan tampilan modern, responsif, dan mudah digunakan.
