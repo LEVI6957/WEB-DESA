@@ -32,4 +32,7 @@ Ini adalah repositori untuk **Website Desa Cangkring**, sebuah platform online y
 2. buat database
    open mysql buat database baru lalu upload database yang sudah di berikan
 
-3. selamat mencoba
+3. PASS
+   untuk login admin
+   Admin
+   Admin
